@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gaiyixeer.acos-1.net/sitemap.xml
